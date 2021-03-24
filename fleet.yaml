@@ -1,5 +1,4 @@
 helm:
-  repo: https://thecrazyrussian.github.io/test
-  chart: testing-1.0.0.tgz 
-  releaseName: multiplecharts
+  chart: https://thecrazyrussian.github.io/test/testing-1.0.0.tgz 
+  releaseName: testing
   version: 1.0.0
