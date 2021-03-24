@@ -1,0 +1,5 @@
+helm:
+  repo: https://thecrazyrussian.github.io/test
+  chart: testing-1.0.0.tgz 
+  releaseName: multiplecharts
+  version: 1.0.0
